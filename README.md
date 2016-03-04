@@ -2,7 +2,7 @@
 
 ## 全体質問A1-A5, A10-A19
 
-1枚目のシートのまとめです。
+1枚目のシートのまとめです。画像はクリックした先のページで「画像を保存」すれば入手できます。
 
 コードは[こちら](https://github.com/keiikegami/Sawada-Seminar-FW-data-analysis/blob/master/FW%20descriptive%20statistics.ipynb)からどうぞ
 
